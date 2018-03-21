@@ -1,8 +1,23 @@
-# TP5 PokeSIR #
+# SIR TP6 - API Pokémon 
 
-Auteurs : POINCE Alexis - REZK Mino
+---
+Réalisation et lancement du projet :
+---
+Pour lancer le programme, il suffit de lancer index.html dans un navigateur web, il se peut qu'il y ai des problèmes d'affichage avec certains navigateur web, nous utilisons le navigateurs google chrome. 
+Il vous suffit de rechercher les pokémons avec leurs noms ou avec une liste déroulante.
+On a utilsé bootstrap pour la partie css du projet.
 
-TP visant a la creation d'un pokedex realise avec Angular et Bootstrap.
-Ce TP utilise l'API : pokeapi.co
+Ce projet a été réalisé avec l'API pokémon gratuite -> https://pokeapi.co/
 
-Pour executer le projet, ouvrer le fichier index.html via un navigateur web.
+---
+Construit à partir de ce projet
+---
+https://github.com/barais/teaching-jxs-tp5
+
+Pour plus de détails
+---
+Veuillez lire DESIGN.md pour plus de détails sur la conception du projet.
+
+Auteurs
+---
+REZK Mino et POINCE Alexis
